@@ -32,3 +32,26 @@ function Developer(name, age) {
 
 const dev2 = new Developer("kanut", 23);
 log(dev2);
+
+
+
+
+ // built in
+//console
+//math
+//data
+//formData
+ console.log("test")
+ Math.Max(5, 4 ,2 , 20);  //20 
+
+ const now = new  Date();
+
+ //date object 
+ now.getDay()
+ now.getHours()
+ now
+
+ const formData = new FormData()
+ formData.append("key", "value")
+
+ formData
